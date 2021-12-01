@@ -2,18 +2,25 @@
   {
       "username": "mestre_dns",
       "email": "mestredns@gmail.com",
+      "phone": null,
       "pass" : "easy"
   },
   {
     "username": "loginn",
+    "email": null,
+    "phone": null,
     "pass" : "easy"
   },
   {
     "username": "mage_cat",
+    "email": null,
+    "phone": null,
     "pass" : "easy"
   },
   {
     "username": "system_cheater",
+    "email": null,
+    "phone": null,
     "pass" : "easy"
   }
 ]
