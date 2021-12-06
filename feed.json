@@ -1,11 +1,14 @@
 [
   {
-    "mestre_dns": ["1638796725", "1638796757"]
+    "username": "mestre_dns",
+    "feed": ["1638796725", "1638796757"]
   },
   {
-    "loginn": ["1638796658"]
+    "username": "loginn",
+    "feed": ["1638796658"]
   },
   {
-    "mage_cat": ["1638796741"]
+    "username": "mage_cat",
+    "feed": ["1638796741"]
   }
 ]
